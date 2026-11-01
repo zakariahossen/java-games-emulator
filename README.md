@@ -55,7 +55,7 @@ For Debian, Ubuntu, Linux Mint and other Debian-based **64-bit (amd64)** systems
 
 **1. Download the package:**
 
-[![Download from GitHub Releases](https://img.shields.io/badge/Download-GitHub%20Releases-2ea44f?style=for-the-badge&logo=github)](https://github.com/zakariahossen/java-game-emulator/releases/latest)
+
 [![Download from Google Drive](https://img.shields.io/badge/Download-Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/19OAOUCzQGdr-LnRW74f-lmuZWtpRANJ5/view?usp=sharing)ow
 [![Video: install the .deb](https://img.shields.io/badge/Video-Install%20the%20.deb-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_DEB_VIDEO_LINK)
 [![Video: run from source](https://img.shields.io/badge/Video-Run%20from%20source-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](YOUR_SOURCE_VIDEO_LINK)
